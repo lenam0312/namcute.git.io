@@ -1,0 +1,21 @@
+ #noidung-gioithieu{
+  
+   margin-right: 50px;
+ }
+ #noidung-gioithieu h1{
+    text-align: center;
+    color: blue;
+    margin-bottom: 20px;
+}
+#noidung-gioithieu > img{
+    width: 70%;
+    margin: 20px 15%;
+  }
+  #noidung-gioithieu > p{
+    line-height: 25px;
+    margin-bottom: 30px;
+  }
+  article{
+    height: 2500px;
+  }
+  

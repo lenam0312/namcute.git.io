@@ -1,0 +1,59 @@
+.boxar{
+    border: 1px solid greenyellow;
+    width: 730px;
+    height: 500px;
+    box-shadow: 0 0 15px grey;
+    margin-top: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 10px;
+}
+.boxar:hover{
+    box-shadow: 0px 0px 5px yellowgreen;
+}
+.boxar>a{
+    float: left;
+    font-weight: bolder;
+    text-decoration: none;
+    color: red;
+    margin-left: 300px;
+    
+}
+.boxar img{
+   width: 730px;
+    height: 400px;
+}
+.boxar > .noi-dung {
+   font-size: 10px;
+   
+}
+.boxar>a:hover{
+    color: blue;
+    text-decoration: none;
+}
+table{
+    border-collapse:collapse ;
+    margin: 10px 0;
+}
+.table{
+    width: 90%;
+    text-align: center;
+     margin: auto;
+}
+th:first-child{
+    width: 0pt;
+}
+td, th{
+    height: 54.25pt;
+    width: 1000pt;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(6, 26, 242);
+}
+.content{
+    float: right;
+}
+
